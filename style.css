@@ -18,7 +18,7 @@
   background: #005249;
   box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.25);
   border-radius: 7px;
-  padding-right: 10px;
+  padding-right: 10*px;
 }
 .span---BD {
   color: #ffc700;
@@ -46,6 +46,13 @@
 }
 .btn---sign {
   background-color: #ffc700;
+  border: none;
+  border-radius: 10px;
+  height: 40px;
+}
+.btn---sign:hover{
+  background-color: #005249;
+  color: aliceblue;
 }
 .input---fild {
   margin-right: 46%;
