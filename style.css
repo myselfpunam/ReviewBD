@@ -66,15 +66,15 @@
   background-color: #005249;
   color: aliceblue;
   border: none;
-  border-radius: 5px;
-  width: 100px;
+  border-radius: 20px;
+  width: 80px;
   
 }
 .btn-search:hover{
   background-color: #FFC700;
   color: rgb(2, 9, 15);
   border: none;
-  border-radius: 5px;
+ 
   
 }
 h1{
