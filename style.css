@@ -53,6 +53,21 @@
   margin-top: 2%;
   padding-bottom: 8%;
 }
+.btn-search{
+  background-color: #005249;
+  color: aliceblue;
+  border: none;
+  border-radius: 5px;
+  width: 100px;
+  
+}
+.btn-search:hover{
+  background-color: #FFC700;
+  color: rgb(2, 9, 15);
+  border: none;
+  border-radius: 5px;
+  
+}
 h1{
   
   color: #005249;
